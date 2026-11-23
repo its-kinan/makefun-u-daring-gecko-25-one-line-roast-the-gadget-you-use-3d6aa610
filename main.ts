@@ -5,7 +5,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const roast =
-  "My earbuds connect to my laptop the moment I walk past it, then play my music to an empty room like they're performing for the furniture.";
+  "My earbuds ditch my phone for my laptop the moment I walk past it, then play my music to an empty room like they're performing for the furniture.";
 
 // The grader runs this in a sandbox where /output already exists.
 // Locally, MAKEFUN_OUTPUT_DIR stands in for /output:
